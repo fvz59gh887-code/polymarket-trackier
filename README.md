@@ -1,1 +1,1 @@
-# polymarket-trackier
+# polymarket-tracker
